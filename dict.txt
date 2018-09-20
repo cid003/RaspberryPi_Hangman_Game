@@ -1,0 +1,14 @@
+12
+umbrella
+cat
+legiana
+cake
+chicken
+steak
+rathian
+lancer
+palico
+zebra
+winston
+hammond
+zarya
